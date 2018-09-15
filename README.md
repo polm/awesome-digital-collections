@@ -20,6 +20,7 @@ Public domain material or a structured API are preferred but not required.
 - [Heidelberg University Library](http://www.ub.uni-heidelberg.de/Englisch/helios/Welcome.html)
 - [Bibliothèques spécialisées de la Ville de Paris - Page d'accueil](http://bibliotheques-specialisees.paris.fr/in/homeInBook.xhtml)
 - [FIDM Museum & Galleries : Online Collections](http://fidmmuseum.pastperfectonline.com/)
+- [The Met](https://www.metmuseum.org/art/collection) - The New York Metropolitan Museum of Art. Takes the unusual and laudable step of dedicating photographs of items to the public domain.
 
 ## Japanese
 
