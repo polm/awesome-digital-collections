@@ -21,6 +21,11 @@ Public domain material or a structured API are preferred but not required.
 - [Bibliothèques spécialisées de la Ville de Paris - Page d'accueil](http://bibliotheques-specialisees.paris.fr/in/homeInBook.xhtml)
 - [FIDM Museum & Galleries : Online Collections](http://fidmmuseum.pastperfectonline.com/)
 - [The Met](https://www.metmuseum.org/art/collection) - The New York Metropolitan Museum of Art. Takes the unusual and laudable step of dedicating photographs of items to the public domain.
+- [Cambridge Digital Library](https://cudl.lib.cam.ac.uk/)
+- [Medical Heritage Library](http://www.medicalheritage.org/)
+- [Musem of Applied Arts](http://collections.imm.hu/gyujtemenyek) in Budapest - Interesting collections, including one focused on ex-libris, but copyright claims in terms seem over-broad.
+- [Embassy of the Free Mind](https://embassyofthefreemind.com/en/library/online-catalogue/?mode=gallery&view=horizontal&sort=random%7B1554718986244%7D%20asc&page=1&fq%5B%5D=search_s_digitized_publication:%22Ja%22&reverse=0) - A collection of occult works from Amsterdam's Ritman Library. [This article](http://www.openculture.com/2018/02/1600-occult-books-now-digitized-put-online.html) serves as an introduction.
+- [MKG Online](http://sammlungonline.mkg-hamburg.de/en) - mostly historic Western and Japanese prints. 
 
 ## Japanese
 
