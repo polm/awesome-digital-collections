@@ -27,6 +27,7 @@ Public domain material or a structured API are preferred but not required.
 - [Embassy of the Free Mind](https://embassyofthefreemind.com/en/library/online-catalogue/?mode=gallery&view=horizontal&sort=random%7B1554718986244%7D%20asc&page=1&fq%5B%5D=search_s_digitized_publication:%22Ja%22&reverse=0) - A collection of occult works from Amsterdam's Ritman Library. [This article](http://www.openculture.com/2018/02/1600-occult-books-now-digitized-put-online.html) serves as an introduction.
 - [MKG Online](http://sammlungonline.mkg-hamburg.de/en) - mostly historic Western and Japanese prints. 
 - [Cleveland Museum of Art](http://www.clevelandart.org/art/collection/search?only-open-access=1) - Clear Open Access policy, lots of paintings and sculptures.
+- [Smithsonian](https://www.si.edu/openaccess) - very high quality images
 
 ## Japanese
 
