@@ -28,6 +28,7 @@ Public domain material or a structured API are preferred but not required.
 - [MKG Online](http://sammlungonline.mkg-hamburg.de/en) - mostly historic Western and Japanese prints. 
 - [Cleveland Museum of Art](http://www.clevelandart.org/art/collection/search?only-open-access=1) - Clear Open Access policy, lots of paintings and sculptures.
 - [Smithsonian](https://www.si.edu/openaccess) - very high quality images
+- [Plantin-Moretus Museum Woodcuts](https://collectie.antwerpen.be/impressedbyplantin/all-woodcuts) - high quality scans of 14000 woodblocks.
 
 ## Japanese
 
